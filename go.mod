@@ -40,3 +40,8 @@ require (
 	golang.org/x/sync v0.23.0 // indirect
 	golang.org/x/text v0.42.0 // indirect
 )
+
+retract (
+	v0.0.2-alpha
+	v0.0.1-alpha
+)

@@ -1,12 +1,13 @@
 go-tam
 ======
+[![Go Reference](https://pkg.go.dev/badge/github.com/romanfields-oss/go-tam.svg)](https://pkg.go.dev/github.com/romanfields-oss/go-tam) [![Report Card](https://goreportcard.com/badge/github.com/romanfields-oss/go-tam)](https://goreportcard.com/report/github.com/romanfields-oss/go-tam)
 
 The `tam/client` and `netbox/models` packages are a Go client for the REST API of [RWS Tridion Access Management](https://docs.rws.com/en-US/tridion-sites-10-1-main-documentation-1174622/tridion-access-management-768664) service.
 
 Versioning
 ==========
 
-To be determined. Meanwhile, look at brances and tags.
+To be determined. Meanwhile, look at branches and tags.
 
 Using the client
 ================

@@ -1,0 +1,4 @@
+.DS_Store
+.gobincache/
+*.swp
+__pycache__/
